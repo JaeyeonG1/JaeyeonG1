@@ -1,8 +1,8 @@
 Hi👋 I’m @JaeyeonG1
 
-👀 I’m interested in ...
+👀 I’m interested in Android
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning Android and DeepLearning
 
 📫 How to reach me
 chlwodud2@naver.com
