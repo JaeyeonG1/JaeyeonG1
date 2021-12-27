@@ -2,7 +2,7 @@ Hi👋 I’m @JaeyeonG1
 
 👀 I’m interested in Android
 
-🌱 I’m currently learning Android and DeepLearning
+🌱 I’m currently learning Android
 
 📫 How to reach me
 chlwodud2@naver.com
